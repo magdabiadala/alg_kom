@@ -1,3 +1,5 @@
+### algorytm generujący wszystkie ciągi długości k o elementach {1,2,...,n} dla k,n > 0 w porządku leksykograficznym ###
+
 print("Podaj n > 0: ")
 n = int(input())
 print("Podaj k > 0: ")
